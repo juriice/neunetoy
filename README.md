@@ -1,7 +1,7 @@
 # Neunetoy
 This is my personal code space for experimenting with Neural Networks and exercising with Rust programming.
 
-## What to do with this code?
+## What to do with this code
 You can use it along with your favorite Neural Network book or article to experiment and sense their capabilities
 and limitations.
 
@@ -10,7 +10,7 @@ other Python implementations that does the same. Here I try to model and write N
 understandable manner with the goal to understand their characteristics. In any case if your goal is to learn them
 the best is to write them on your own ;).
 
-## How-to run this code?
+## How-to run this code
 If you are not already doing Rust, first is to get familiar with it and at least install Rust [tool-chain](https://doc.rust-lang.org/book/ch01-00-getting-started.html).
 
 Then, clone the code:
