@@ -1,5 +1,5 @@
 # Neunetoy
-This is my personal code space for experimenting with Neural Networks and exercising with Rust programming.
+This is my personal code space for experimenting with Neural Networks while exercising Rust programming.
 
 ## What to do with this code
 You can use it along with your favorite Neural Network book or article to experiment and sense their capabilities
@@ -13,18 +13,18 @@ the best is to write them on your own ;).
 ## How-to run this code
 If you are not already doing Rust, first is to get familiar with it and at least install Rust [tool-chain](https://doc.rust-lang.org/book/ch01-00-getting-started.html).
 
-Then, clone the code:
+Clone the code:
 ```bash
 git clone https://github.com/juriice/neunetoy.git
 cd neunetoy
 ```
 
-Then, run the given examples:
+Run the given examples:
 ```bash
 time cargo run --release
 ```
 
-Then, to sense the need for processor power or clever (or non clever) code optimizations technics do the next exercise
+To sense the need for processor power and clever (or non clever) code optimizations technics do the next exercise
 and compare the execution time with the previous run:
 ```bash
 time cargo run
